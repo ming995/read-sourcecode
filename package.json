@@ -1,0 +1,19 @@
+{
+  "name": "read-sourcecode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ming995/read-sourcecode.git"
+  },
+  "author": "ming995",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ming995/read-sourcecode/issues"
+  },
+  "homepage": "https://github.com/ming995/read-sourcecode#readme"
+}
